@@ -1,0 +1,11 @@
+{
+  "name": "com.tmd.hierarchy",
+  "displayName": "Hierarchy",
+  "version": "0.1.0",
+  "unity": "2020.1",
+  "description": "hierarchy显示工具阿坤不要乱动不想看就CTRL+H",
+  "license": "MIT",
+  "keywords": [
+    "hierarchy"
+  ]
+}
