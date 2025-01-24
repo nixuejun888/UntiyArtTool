@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-1267411644526760629
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 639247ca83abc874e893eb93af2b5e44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 0
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "ni_Built-In_\u81EA\u5DF1\u95EA"
+  m_Shader: {fileID: -6465566751694194690, guid: 6f6692484bcb3f940a4552778d202dcf, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _SWITCHTRANSPARENT_ALLTRANSPARENT
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTesture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SecondMaskMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SecondNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SecondTesture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BUILTIN_QueueControl: 0
+    - _BUILTIN_QueueOffset: 0
+    - _CHANGE: 0
+    - _ChangeMap: 0
+    - _EmissionFlashSpeed: 5
+    - _FresnelOpacity: 0
+    - _FresnelStrength: 0
+    - _NormalIntensity: 0
+    - _NormalStrength: 0
+    - _OPACITY: 0
+    - _SWITCHTRANSPARENT: 0
+    - __DRAWER_MinMax__AO_1_x__AO_1_y: 0
+    - __DRAWER_MinMax__AO_x__AO_y: 0
+    - __DRAWER_MinMax__Metallic_1_x__Metallic_1_y: 0
+    - __DRAWER_MinMax__Metallic_x__Metallic_y: 0
+    - __DRAWER_MinMax__Smoothness_1_x__Smoothness_1_y: 0
+    - __DRAWER_MinMax__Smoothness_x__Smoothness_y: 0
+    - __REF__CHANGE: 0
+    - __REF__SWITCHTRANSPARENT: 0
+    m_Colors:
+    - _AO: {r: 0, g: 1, b: 0, a: 0}
+    - _AO_1: {r: 0, g: 1, b: 0, a: 0}
+    - _EmissionColor: {r: 0.772549, g: 0.3793887, b: 0, a: 1}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Metallic: {r: 0, g: 1, b: 0, a: 0}
+    - _Metallic_1: {r: 0, g: 1, b: 0, a: 0}
+    - _SecondColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Smoothness: {r: 0, g: 1, b: 0, a: 0}
+    - _Smoothness_1: {r: 0, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []

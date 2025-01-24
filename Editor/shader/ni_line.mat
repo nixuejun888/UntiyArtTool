@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ni_line
+  m_Shader: {fileID: 4800000, guid: bf660f46ca723f748adec89b0a23ecf5, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _OUTLINE_KEY0
+  - _OUTLINE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Albedo:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GradientTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Maskmap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AO: 1
+    - _Count: 5
+    - _Cutoff: 0.2
+    - _DRAWERGradientGenerator_GradientTexture_GRADIENTCOLOR: 0
+    - _DRAWERMinMax_AOx_AOy: 0
+    - _DRAWERMinMax_Metallicx_Metallicy: 0
+    - _DRAWERMinMax_Smoothnessx_Smoothnessy: 0
+    - _Emssion: 0
+    - _GRADIENTCOLOR: 0
+    - _GlowIntensity: 21.8
+    - _NormalIntensity: 0
+    - _OUTLINE: 1
+    - _Opacity: 0
+    - _Outline: 1
+    - _OutlineWidth: 0.02
+    - _PBR: 0
+    - _REF_GRADIENTCOLOR: 0
+    - _REF_Outline: 0
+    - _REF_line: 0
+    - _REF_lineMask: 0
+    - _REF_uvOffset: 0
+    - _Smoothness: 0
+    - _UVoffset: 0
+    - _XY: 1
+    - __dirty: 1
+    - _fanxiang: 0
+    - _fanxiang1: 0
+    - _jianbian: 1
+    - _jianbianfangxiangqiehuan: 0
+    - _jianbianfanwei: 4.058068
+    - _jianbianff: 0
+    - _jianbiantouming: 0
+    - _lineMask: 0
+    - _liuguangcanshu: 0
+    - _mask: 1.41
+    - _outline: 0
+    - _pengzhang: 0
+    - _speed: 1.4
+    - _toumingdu: 0
+    - _toumingdu1: 0
+    - _uvOffset: 0
+    - _width: 18.75
+    m_Colors:
+    - _AO: {r: 0, g: 1, b: 0, a: 0}
+    - _Color: {r: 0.9339623, g: 0.4976861, b: 0, a: 1}
+    - _Metallic: {r: 0, g: 1, b: 0, a: 0}
+    - _OutlineColor: {r: 1, g: 0, b: 0.0745101, a: 1}
+    - _Smoothness: {r: 0, g: 1, b: 0, a: 0}
+    - _TilingOffset: {r: 5, g: 5, b: 0, a: 0}
+    - _color: {r: 1.811765, g: 1.043137, b: 0.1333333, a: 1}
+  m_BuildTextureStacks: []

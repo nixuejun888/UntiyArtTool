@@ -1,11 +1,11 @@
 {
-  "name": "com.tmd.hierarchy",
-  "displayName": "Hierarchy",
-  "version": "0.1.0",
+  "name": "com.tmd.customshader",
+  "displayName": "Custom Shader",
+  "version": "0.1.1",
   "unity": "2020.1",
-  "description": "hierarchy显示工具阿坤不要乱动不想看就CTRL+H",
+  "description": "老夫要用的shader，阿坤不要乱动",
   "license": "MIT",
   "keywords": [
-    "hierarchy"
+    "customshader"
   ]
 }

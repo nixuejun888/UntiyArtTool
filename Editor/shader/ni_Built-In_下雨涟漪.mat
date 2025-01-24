@@ -1,0 +1,255 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "ni_Built-In_\u4E0B\u96E8\u6D9F\u6F2A"
+  m_Shader: {fileID: -6465566751694194690, guid: 4c644f3c7d261714c90a78a77b7d0bbe, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _RAINSWITCH_LOCAL
+  - _WATER
+  m_InvalidKeywords:
+  - _ENUM_A
+  - _SWITCHTRANSPARENT_ALLTRANSPARENT
+  - _UV_UV1
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_118F539B:
+        m_Texture: {fileID: 2800000, guid: b916f8723d693f74f9185621209a6c72, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_2D871E06:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_625E3080:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_71511465:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_96ECD4CB:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_FF17ACB7:
+        m_Texture: {fileID: 2800000, guid: b05eca84ced645943954a121fc17ad3a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Albedo:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseColor:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emission_Emission:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emissive:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTesture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask_map:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RippleMask:
+        m_Texture: {fileID: 2800000, guid: 6c6dc2db78540964ca35e2165877854a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RippleNormal:
+        m_Texture: {fileID: 2800000, guid: b916f8723d693f74f9185621209a6c72, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SecondMaskMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SecondNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SecondTesture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_817e2ecf10d144a4a7d556b170d9cdb0_Out_0:
+        m_Texture: {fileID: 2800000, guid: 9474c309409b38845bc8912a600f0e10, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_3371B722: 15
+    - Vector1_472139B1: 1
+    - Vector1_626D9C21: 0.03
+    - Vector1_65FAA843: 0.5
+    - Vector1_A50117BB: 0
+    - Vector1_B9E84AB4: 25
+    - Vector1_C4E86AA4: 8
+    - Vector1_D2BEDE89: 0.81
+    - Vector1_D5C61631: 0.5
+    - _AO: 0.5
+    - _AlphaCutoff: 0.5
+    - _BUILTIN_AlphaClip: 0
+    - _BUILTIN_Blend: 0
+    - _BUILTIN_CullMode: 2
+    - _BUILTIN_DstBlend: 0
+    - _BUILTIN_QueueControl: 0
+    - _BUILTIN_QueueOffset: 0
+    - _BUILTIN_SrcBlend: 1
+    - _BUILTIN_Surface: 1
+    - _BUILTIN_ZTest: 4
+    - _BUILTIN_ZWrite: 0
+    - _BUILTIN_ZWriteControl: 0
+    - _CHANGE: 0
+    - _CameraDepth: 0
+    - _CameraDepthLength: 1
+    - _ChangeMap: 0
+    - _Depth: 0
+    - _ENUM: 0
+    - _Emission: 0
+    - _EmissionFlashSpeed: 5
+    - _Fresnel: 1.89
+    - _FresnelOpacity: 0
+    - _FresnelPower: 0.88
+    - _FresnelStrength: 0
+    - _Gradient: 0.07
+    - _Invert: 0
+    - _LerpStrength: 0.5
+    - _Metallic: 0
+    - _Normal1Intensity: 1
+    - _Normal2Intensity: 1
+    - _NormalIntensity: 0
+    - _NormalStrength: 1
+    - _Normal_Strength: 2
+    - _OPACITY: 0
+    - _QueueControl: -1
+    - _QueueOffset: 0
+    - _RAINSWITCH: 1
+    - _RainMetallic: 0.275
+    - _RainMetallic__RAINSWITCH_LOCAL: 0.44
+    - _RainNormalStrength: 1
+    - _RainSmoothness: 0.889
+    - _RainSmoothness__RAINSWITCH_LOCAL: 0.835
+    - _RippleFPS: 20
+    - _RippleMaskDensity: 2
+    - _RippleMaskSpeed: 1
+    - _RippleTiling: 20
+    - _Roughness: 1
+    - _SWITCHTRANSPARENT: 0
+    - _Smoothness: 0
+    - _UV: 0
+    - _VertexColorStrength: 1
+    - _WATER: 1
+    - _WaterNormalStrength: 0.5
+    - _WaterNormalStrength_1: 0.5
+    - _WaterRotate: 0
+    - _WaterRotate_1: 306
+    - _WaterSpeed: 0.03
+    - _WaterSpeed_1: 0.05
+    - _XY: 0
+    - __DRAWER_MinMax__AO_1_x__AO_1_y: 0
+    - __DRAWER_MinMax__AO_x__AO_y: 0
+    - __DRAWER_MinMax__Metallic_1_x__Metallic_1_y: 0
+    - __DRAWER_MinMax__Metallic_x__Metallic_y: 0
+    - __DRAWER_MinMax__Smoothness_1_x__Smoothness_1_y: 0
+    - __DRAWER_MinMax__Smoothness_x__Smoothness_y: 0
+    - __REF__CHANGE: 0
+    - __REF__RAINSWITCH: 0
+    - __REF__SWITCHTRANSPARENT: 0
+    - __REF__WATER: 0
+    m_Colors:
+    - Color_AC78E02E: {r: 1, g: 1, b: 1, a: 1}
+    - _AO: {r: 0, g: 1, b: 0, a: 0}
+    - _AO_1: {r: 0, g: 1, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color01: {r: 0.004716992, g: 1, b: 0.09915501, a: 1}
+    - _Color02: {r: 1, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor_Emission: {r: 0, g: 0, b: 0, a: 1}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Metallic: {r: 0.37656903, g: 1, b: 0, a: 0}
+    - _Metallic_1: {r: 0, g: 1, b: 0, a: 0}
+    - _SecondColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Smoothness: {r: 0.8577406, g: 1, b: 0, a: 0}
+    - _Smoothness_1: {r: 0, g: 1, b: 0, a: 0}
+    - _Speeduv1uv2: {r: 0, g: 0, b: 0, a: 0}
+    - _Tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _TilingOffset: {r: 2, g: 2, b: 0, a: 0}
+    - _UV1: {r: 1, g: 1, b: 1, a: 1}
+    - _UV2: {r: 1, g: 1, b: 1, a: 1}
+    - _WaterTiling: {r: 2, g: 2, b: 0, a: 0}
+    - _WaterTiling_1: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &7398834661606473571
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 639247ca83abc874e893eb93af2b5e44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 0
